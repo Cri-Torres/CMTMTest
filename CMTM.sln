@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMTM.Temperatura", "CMTM.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMTM.Temperatura.UnitTest.MSTest", "CMTM.Temperatura.UnitTest.MSTest\CMTM.Temperatura.UnitTest.MSTest.csproj", "{6AC1A04F-EDA0-4A15-93F7-78EA22393E10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMTM.Texto", "CMTM.Texto\CMTM.Texto.csproj", "{EBD5420D-3C99-4F7C-821D-7AA90D0577EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6AC1A04F-EDA0-4A15-93F7-78EA22393E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AC1A04F-EDA0-4A15-93F7-78EA22393E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AC1A04F-EDA0-4A15-93F7-78EA22393E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD5420D-3C99-4F7C-821D-7AA90D0577EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD5420D-3C99-4F7C-821D-7AA90D0577EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD5420D-3C99-4F7C-821D-7AA90D0577EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD5420D-3C99-4F7C-821D-7AA90D0577EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
